@@ -1,0 +1,7 @@
+backend/botapi/.env
+backend/botapi/db.sqlite3
+backend/botapi/botapi/__pycache__
+backend/botapi/core/__pycache__
+*.log
+*.pot
+*.pyc
